@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 -->
 - 💬 Ask me about how vaadin release pipeline works
 - 📫 How to reach me: WeChat，Whatsapp，Email
-- 😄 Pronouns: He/Him/They
-- ⚡ Fun fact: I am Chinese and my avatar is badminton not volleyball
+- ⚡ Fun fact: My avatar is badminton not volleyball
